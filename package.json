@@ -1,0 +1,25 @@
+{
+  "name": "private-chat-application",
+  "version": "1.0.0",
+  "description": "Private Chat Application with Node.js, Socket.IO and AngularJS",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sivasankars"
+  },
+  "keywords": [
+    "socket.io",
+    "node.js",
+    "angular.js"
+  ],
+  "author": "siva sankar",
+  "license": "ISC"
+}

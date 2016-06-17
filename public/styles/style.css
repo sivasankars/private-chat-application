@@ -1,0 +1,20 @@
+    body {
+      background-color: #eee;
+      color: #444;
+    }
+    
+    .fa {
+      color: #fff;
+    }
+    
+    #userList {
+      display: none;
+    }
+    
+    #loader {
+      position: absolute;
+      z-index: 2;
+      width: 100%;
+      text-align: center;
+      top: 40%;
+    }
